@@ -1,0 +1,18 @@
+title: PilumArt
+email:  ps@pilumart.com
+baseurl: ""
+# url: "http://192.168.99.100:4000/"
+url: "http://andreas-sotnik.info/pilumart.com"
+
+sass:
+    sass_dir: _sass
+    style: compressed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Dockerfile
+  - docker-compose.yml
+  - CNAME
+
+host: 0.0.0.0
+port: 4000
