@@ -2,7 +2,7 @@ title: PilumArt
 email:  ps@pilumart.com
 baseurl: ""
 # url: "http://192.168.99.100:4000/"
-url: "http://andreas-sotnik.info/pilumart.com"
+url: "http://pilumart.com"
 
 sass:
     sass_dir: _sass
